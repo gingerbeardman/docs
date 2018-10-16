@@ -93,7 +93,8 @@ Required or optional firmware files go in RetroArch's system directory.
 | MSX2.ROM     | MSX2 BIOS - Required    | ec3a01c91f24fbddcbcab0ad301bc9ef |
 | MSX2EXT.ROM  | MSX2 ExtROM - Required  | 2183c2aff17cf4297bdb496de78c2e8a |
 | MSX2P.ROM    | MSX2+ BIOS - Required   | 847cc025ffae665487940ff2639540e5 |
-| MSX2PEXT.ROM  |MSX2+ ExtROM - Required | 7c8243c71d8f143b2531f01afa6a05dc |
+| MSX2PEXT.ROM | MSX2+ ExtROM - Required | 7c8243c71d8f143b2531f01afa6a05dc |
+| DISK.ROM     | MSX DiskROM containing BDOS and Disk BASIC (optional) |    |
 
 ## Features
 
